@@ -1,17 +1,19 @@
 #### Login Authentication
 
-#Clone this into your machine
+# Clone this into your machine
 
-https://github.com/kalyanivetal/login-authentication-reactjs
+https://github.com/kalyanivetal/login-authentication-reactjs.git
 
 ## Dependencies
 1> installation
+
 	->npm install
 2>
+
  -> check dependencies.txt file
  -> install dependencies
 
-##Database
+## Database
  -> check db.txt 
 
 -run mysql on your local machine and create user and make changes as per it in Main.js
