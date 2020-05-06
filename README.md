@@ -9,19 +9,19 @@ https://github.com/kalyanivetal/login-authentication-reactjs.git
 
 	->npm install
 2>
-
- -> check dependencies.txt file
- -> install dependencies
+ 	-> check dependencies.txt file
+ 	-> install dependencies
 
 ## Database
- -> check db.txt 
+ 	-> check db.txt 
 
--run mysql on your local machine and create user and make changes as per it in Main.js
--create database
+	-run mysql on your local machine and create user and make changes as per it in Main.js
+
+	-create database
 
 
 # Run
- -> npm start
+ 	-> npm start
 
-Enjoy
+Enjoy learning..!
 
